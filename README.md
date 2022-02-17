@@ -1,4 +1,18 @@
-<link rel="stylesheet" type="text/css" media="all" href="./custom.css" />
+<style type="text/css" rel="stylesheet">
+  .flex {
+    display: flex;
+  }
+
+  .card {
+    width: 50%;
+    max-height: 195px;
+  }
+
+  .card img {
+    width: 100%;
+    height: 100%;
+  }
+</style>
 <h2>Hello World! 🌎 I'm Matheus</h2>
 
 <ul>
@@ -8,10 +22,13 @@
   <li>💫 Looking for improve my knowledge to learn new stuff and techs</li>
   <li>🎮 I love games and anything that are related</li>
 </ul>
-<a class="width-50" href="https://chignolli.com">
-  <img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=MatheusChignolli&show_icons=true&theme=default" />
-</a>
-<a class="width-50" href="https://chignolli.com">
-  <img height="195px" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusChignolli&layout=compact" />
-</a>
+<div class="flex">
+  <a class="card" href="https://chignolli.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatheusChignolli&show_icons=true&theme=default" />
+  </a>
+  <a class="card" href="https://chignolli.com">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusChignolli&layout=compact" />
+  </a>
+</div>
+
 
