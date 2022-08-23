@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Front-end developer</li>
   <li>💡 Learning more about Back-end technologies like AWS Lambda, Node.js, Serveless etc</li>
-  <li>🤓 Working on [Paketá Crédito](https://paketa.com.br/) as Squad Leader</li>
+  <li>🤓 Working on [Paketá Crédito](https://paketa.com.br/) as Front-end developer</li>
   <li>💫 Looking for improve my knowledge to learn new stuff and techs</li>
   <li>🎮 I love games and anything that are related</li>
 </ul>
