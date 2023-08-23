@@ -1,13 +1,6 @@
-## <h2>Hello World! 🌎 I'm Matheus</h2>
+## <h2>Hi, my name is Matheus</h2>
 
-<ul>
-  <li>💻 Front-end developer</li>
-  <li>💡 Learning more about Back-end technologies like AWS Lambda, Node.js, Serveless etc</li>
-  <li>💫 Looking for improve my knowledge to learn new stuff and techs</li>
-  <li>🎮 I love games and anything that are related</li>
-</ul>
-
-
+### Front-end developer
 
 ## <h2>📞 Contact</h2>
 
