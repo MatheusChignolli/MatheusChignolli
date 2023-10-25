@@ -1,4 +1,4 @@
-## <h2>Hi, my name is Matheus</h2>
+## Hi, my name is Matheus
 
 ### Front-end developer
 
